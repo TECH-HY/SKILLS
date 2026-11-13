@@ -4,7 +4,7 @@ Parts of this repository are copies of, or are based on, skills that other parti
 
 The MIT License in [`LICENSE`](LICENSE) (Copyright (c) 2026 TECH HY) applies to the original work of TECH HY in this repository. It does not apply to the third-party material listed in this file, which stays under the licenses named here.
 
-Checked on 2026-11-13: every file of the skill directories named below was compared byte for byte (sha256) with the upstream repository at the commit named in each section. License texts are in [`LICENSES/`](LICENSES/).
+Checked on 2026-11-13: every file of the skill directories named below was compared byte for byte (sha256) with the upstream repository at the commit named in each section. License texts are in [`LICENSES/`](LICENSES/), except the Apache-2.0 text for `playwright`, which is in [`skills/playwright/LICENSE.txt`](skills/playwright/LICENSE.txt).
 
 | # | Upstream | License | Skills here |
 |---|---|---|---|
