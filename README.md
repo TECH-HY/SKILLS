@@ -215,6 +215,12 @@ Then copy the selected skill directory into the agent platform's local or projec
 - [skills/tpo-ux-ui-guidelines](skills/tpo-ux-ui-guidelines) — Guideline module for Ux Ui Guidelines: preserves templates, checklists, gates, and execution rules
 <!-- TPO-SKILLS-END -->
 
+## License and attribution
+
+Parts of this repository are copies of, or are based on, skills that other parties published under their own licenses: Trail of Bits (CC BY-SA 4.0), Agent Skills for Context Engineering (MIT), color-expert by meodai (CC BY 4.0) and Microsoft playwright-cli (Apache-2.0). Those parts stay under their original licenses.
+
+See [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) for the skills each license covers and the required attributions, and [LICENSES/](LICENSES/) for the license texts.
+
 ## Contributing
 
 More skills can be added after the same sanitization pass:
